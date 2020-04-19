@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\admin\source\repos\ST_PV_36a\DynamicMemory\DynamicMemory\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DynamicMemory.vcxproj -> C:\Users\admin\source\repos\ST_PV_36a\DynamicMemory\Debug\DynamicMemory.exe
